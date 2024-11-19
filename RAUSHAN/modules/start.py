@@ -38,7 +38,7 @@ async def start(_, m: Message):
         await accha.edit("__sᴛᴀʀᴛɪɴɢ..__")
         await asyncio.sleep(0.2)
         await accha.edit("__sᴛᴀʀᴛᴇᴅ..__")
-        await asyncio.sleep(0.2)[𝗥𝗔𝗝𝗔-𝗕𝗔𝗕𝗨](https://t.me/HINDI_CHATTING_CLUBS)♡**\n**╰───────────────────⦿""",
+        await asyncio.sleep(0.2)[𝗥𝗔𝗝𝗔-𝗕𝗔𝗕𝗨](https://t.me/HINDI_CHATTING_CLUBS)**\n**╰───────────────────⦿""",
             reply_markup=InlineKeyboardMarkup(DEV_OP),
         await accha.delete()
         umm = await m.reply_sticker(sticker=random.choice(STICKER))
