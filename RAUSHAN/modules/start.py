@@ -38,7 +38,7 @@ async def start(_, m: Message):
         await accha.edit("__sᴛᴀʀᴛɪɴɢ..__")
         await asyncio.sleep(0.2)
         await accha.edit("__sᴛᴀʀᴛᴇᴅ..__")
-        await asyncio.sleep(0.2)˹ ᴘᴜʀᴠɪ-ᴍᴜ𝛅𝛊ᴄ™ ˼](https://t.me/HINDI_CHATTING_CLUBS)♡**\n**╰───────────────────⦿""",
+        await asyncio.sleep(0.2)˹ 𝗥𝗔𝗝𝗔-𝗕𝗔𝗕𝗨™ ˼](https://t.me/HINDI_CHATTING_CLUBS)♡**\n**╰───────────────────⦿""",
             reply_markup=InlineKeyboardMarkup(DEV_OP),
         await accha.delete()
         umm = await m.reply_sticker(sticker=random.choice(STICKER))
@@ -46,7 +46,7 @@ async def start(_, m: Message):
         await umm.delete()
         await m.reply_photo(
             photo=random.choice(IMG),
-            caption=f"""**╭───────────────────⦿**\n**│❍ ʜᴇʏ ɪ ᴀᴍ {BOT_NAME} •**\n**├───────────────────⦿**\n**│❍ ɪ ʀᴇᴀᴅ ʏᴏᴜʀ ᴍɪɴᴅ •**\n**│❍ ᴀɴ ᴀɪ ʙᴀsᴇᴅ ᴄʜᴀᴛʙᴏᴛ •**\n**├───────────────────⦿**\n**│❍ ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs •**\n**│❍ ɪ ᴄᴀɴ ʜᴇʟᴘ ʏᴏᴜ •**\n**│❍ ғᴏʀ ᴀᴄᴛɪᴠᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ •**\n**│❍ ᴜsᴀɢᴇ /chatbot [ᴏɴ/ᴏғғ] •**\n**│❍ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ғᴏʀ ʜᴇʟᴘ •**\n**│❍ 24x7 ᴛɪᴍᴇ ᴏɴʟɪɴᴇ •**\n**├───────────────────⦿**\n**│❍ ᴍᴀᴅᴇ ʙʏ...[𝗥𝗔𝗝𝗔 𝗕𝗔𝗕𝗨™](https://t.me/HINDI_CHATTING_CLUBS)♡**\n**╰───────────────────⦿""",
+            caption=f"""**╭───────────────────⦿**\n**│❍ ʜᴇʏ ɪ ᴀᴍ {BOT_NAME} •**\n**├───────────────────⦿**\n**│❍ ɪ ʀᴇᴀᴅ ʏᴏᴜʀ ᴍɪɴᴅ •**\n**│❍ ᴀɴ ᴀɪ ʙᴀsᴇᴅ ᴄʜᴀᴛʙᴏᴛ •**\n**├───────────────────⦿**\n**│❍ ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs •**\n**│❍ ɪ ᴄᴀɴ ʜᴇʟᴘ ʏᴏᴜ •**\n**│❍ ғᴏʀ ᴀᴄᴛɪᴠᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ •**\n**│❍ ᴜsᴀɢᴇ /chatbot [ᴏɴ/ᴏғғ] •**\n**│❍ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ғᴏʀ ʜᴇʟᴘ •**\n**│❍ 24x7 ᴛɪᴍᴇ ᴏɴʟɪɴᴇ •**\n**├───────────────────⦿**\n**│❍ ᴍᴀᴅᴇ ʙʏ...[𝗥𝗔𝗝𝗔-𝗕𝗔𝗕𝗨™](https://t.me/HINDI_CHATTING_CLUBS)♡**\n**╰───────────────────⦿""",
             reply_markup=InlineKeyboardMarkup(DEV_OP),
         )
         await add_served_user(m.from_user.id)
