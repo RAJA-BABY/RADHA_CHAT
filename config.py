@@ -14,7 +14,7 @@ UPDATE_CHNL = getenv("UPDATE_CHNL", "TG_style_name_bio")
 OWNER_USERNAME = getenv("OWNER_USERNAME", "ll_Raja_babu_ll")
 
 # Random Start Images
-IMG = [
+IMG =[
     "https://telegra.ph/file/00eb565274ccbffcf149d.jpg",
     "https://telegra.ph/file/396e2af77c4664164de18.jpg",
     "https://telegra.ph/file/6f92a0e943d68a15169c0.jpg",
@@ -32,6 +32,7 @@ IMG = [
     "https://telegra.ph/file/e07ef19b1f9bbde9909ad.jpg",
     "https://telegra.ph/file/d3ee41261ed7779f30a89.jpg",
 ]
+
 
 
 # Random Stickers
